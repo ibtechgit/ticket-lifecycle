@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Ticket Lifecycle</h1>
+<h1>osTicket - Ticket Lifecycle Examples</h1>
 </p>
 This walkthrough demonstrates the creation of tickets as an end user .<br />
 
